@@ -1,55 +1,58 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9C86E2&height=220&section=header&text=V%C3%8DCTOR%20ANDR%C3%89S&fontSize=45&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=DAVIDELWETA-MAX&fontSize=50&fontColor=9C86E2&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A370F7&center=true&vCenter=true&width=600&lines=Analista+Inform%C3%A1tico+%E2%9A%A1;UI%2FUX+Web+Designer+%F0%9F%93%90;React+%2B+Netlify+Specialist+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://komarev.com/normal-badge/?username=davidelweta-max&color=9C86E2&style=flat-square&label=SYSTEM_VIEWS" alt="Visitas" />
 </p>
 
 ---
 
-## ⚡ RE_BOOTING THE SYSTEM
+## 🕹️ GRID_SYSTEM: ACTIVE
 
-<table align="center">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 ¿Quién soy?</h3>
-      <p>Un desarrollador de software y diseñador web enfocado en romper la monotonía de internet. Me obsesiona la velocidad de carga, las interfaces limpias y el código estructurado.</p>
-      <p>Transformo ideas complejas en aplicaciones web de alto rendimiento, optimizadas al milímetro tanto para PC como para móviles.</p>
-      📍 <b>Ubicación:</b> Ñuble, Chile 🇨🇱
+    <td width="60%" valign="top">
+      <h3>⚡ USER_PROFILE</h3>
+      <p>Analista informático enfocado en el desarrollo frontend de alto impacto. No me interesa crear páginas web comunes; busco interfaces líquidas, optimización milimétrica para móviles y un rendimiento impecable en producción.</p>
+      <p>Especializado en arquitecturas con <b>React</b> y despliegues optimizados mediante <b>Netlify</b>.</p>
+      <br>
+      <span>📍 <i>Loc: Ñuble, Chile</i></span>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Mi Stack de Batalla</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,js,html,css,netlify,git,github,vscode" />
-      </p>
-      <h3>📊 Estado del Servidor</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=davidelweta-max&show_icons=true&theme=purple&count_private=true&hide_border=true&bg_color=0D1117&title_color=9C86E2&icon_color=9C86E2" width="100%" />
+    <td width="40%" valign="top">
+      <h3>🛠️ TECH_STACK</h3>
+      <img src="https://skillicons.dev/icons?i=react,js,netlify,css,html,git,github,vscode&theme=dark" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Proyectos Destacados
-
-> [!TIP]
-> Aquí puedes poner links directos a tus mejores despliegues en Netlify. ¡Haz que pinchen los enlaces!
-
-* **🌐 Proyecto Alpha** – Landing page ultra optimizada con React. `En desarrollo`
-* **🎮 Game Dashboard concept** – Interfaz web responsiva con consumo de APIs. 
+## 🏆 REWARDS & ACHIEVEMENTS
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=davidelweta-max&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" />
+</p>
 
 ---
 
-## 📈 Lenguajes más usados
+## 🐍 COMMIT_SNAKE (Historial Dinámico)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/davidelweta-max/davidelweta-max/output/github-snake-dark.svg" alt="GitHub Snake Game" width="100%" />
+</p>
+
+---
+
+## 📊 METRICS & DIAGNOSTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidelweta-max&layout=compact&theme=purple&hide_border=true&bg_color=0D1117&title_color=9C86E2" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davidelweta-max&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=9C86E2&icon_color=9C86E2&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidelweta-max&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9C86E2&text_color=ffffff" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-badge-generator/master/images/purple.png" width="30" />
-  <i>"El diseño no es solo lo que se ve, es cómo funciona."</i>
+  <a href="https://github.com/davidelweta-max/davidelweta-max/stargazers">
+    <img src="https://img.shields.io/badge/DEJA_UN_STAR_EN_ESTE_REPO-9C86E2?style=for-the-badge&logo=github&logoColor=white" alt="Star el repo" />
+  </a>
 </p>
